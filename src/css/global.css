@@ -1,0 +1,7 @@
+.cursor-pointer,
+.dropdown-item,
+.nav-item,
+button,
+a {
+    cursor: pointer;
+}
