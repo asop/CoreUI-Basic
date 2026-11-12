@@ -34,14 +34,16 @@ Perfect as a starter admin dashboard for enterprise applications. Just plug in y
   <img src="Preview/cap3.jpg" alt="Capture 3" width="500">
 </p>
 
-### 📊 Status
+
+
+### 🗺️ Roadmap
 
 | Fitur / Modul | Status | Indikator |
-| :--- | :---: | :---: |
-| CoreUI  | `Terhubung` | 🌟 *Ready* |
-| Axios  | `Terhubung` | 🌟 *Ready* |
-| Koneksi MySQL  | `Tidak Ada` | 🌟 *NotReady* |
-| RESTful API CRUD | `Tidak Ada` | 🌟 *NotReady* |
-| Integrasi EF Core 9 | `Tidak Ada` | 🌟 *NotReady* |
-| Database View (Raw SQL) | `Tidak Ada` | 🌟 *NotReady* |
-| Koleksi Pengujian Bruno | `Tidak Ada` | 🌟 *NotReady* |
+| :--- | :--- | :--- |
+| CoreUI | Terhubung | ✅ Ready |
+| Axios | Terhubung | ✅ Ready |
+| Koneksi MySQL | Direncanakan | 🗓️ Planned |
+| RESTful API CRUD | Direncanakan | 🗓️ Planned |
+| Integrasi EF Core 9 | Direncanakan | 🗓️ Planned |
+| Database View (Raw SQL) | Direncanakan | 🗓️ Planned |
+| Koleksi Pengujian Bruno | Direncanakan | 🗓️ Planned |
