@@ -1,23 +1,40 @@
-# 🚀 CoreUI Template (Frontend Only)
+# 🚀 CoreUI Template - Frontend Only (Refactored)
 
-Dengan template ini, kita tinggal menggabungkan nya dengan aplikasi disisi Backend.
+Clean, production-ready frontend template refactored from CoreUI React.js.
 
-### 📊 Screen capture 1
+This project is a decoupled frontend version of CoreUI, refactored to be easily integrated with any backend API (.NET Core, Laravel, Node.js).
+
+### What was refactored?
+- Removed backend dependencies & dummy data
+- Cleaned up routing, layout, and auth pages (Login / Register)
+- Separated UI components from business logic
+- Ready to connect to REST API with JWT Auth
+
+### Tech Stack
+- React.js
+- CoreUI + Bootstrap
+- React Router
+
+### Use Case
+Perfect as a starter admin dashboard for enterprise applications. Just plug in your backend API and go.
+
+
+### 📊 Capture 1
 <p align="center">
   <img src="Preview/cap1.jpg" alt="Capture 1" width="500">
 </p>
 
-### 📊 Screen capture 2
+### 📊 Capture 2
 <p align="center">
   <img src="Preview/cap2.jpg" alt="Capture 2" width="500">
 </p>
 
-### 📊 Screen capture 3
+### 📊 Capture 3
 <p align="center">
   <img src="Preview/cap3.jpg" alt="Capture 3" width="500">
 </p>
 
-### 📊 Status Proyek
+### 📊 Status
 
 | Fitur / Modul | Status | Indikator |
 | :--- | :---: | :---: |
